@@ -4,3 +4,4 @@ line3
 branch add 1
 branch add 2
 coupon add 1
+coupon add 2
